@@ -10,6 +10,7 @@
     <modules>
         <module>bio-chatroom</module>
         <module>nio-chatroom</module>
+        <module>aio-chatroom</module>
     </modules>
     <packaging>pom</packaging>
 
